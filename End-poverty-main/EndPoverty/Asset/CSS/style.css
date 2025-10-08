@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Libre Baskerville", serif;
+}
+
+.card {
+  border: none;
+  overflow: none;
+  height: 92.2vh;
+  /* border: 3px solid red; */
+}
+
+.card-img {
+  height: 92.2vh;
+
+  opacity: 0.4;
+  min-height: 92.2vh;
+}
+
+.section1 {
+  background-color: rgb(210, 195, 178);
+}
+
+.font {
+  font-family: "Libre Baskerville", serif;
+}
+
+.program {
+  padding-left: 150px;
+}
+
+.helpBox {
+  height: 93vh;
+  border: 0.5px solid black;
+  border-radius: 5px;
+}
+
+.helpBox:hover {
+  /* background-color: #D5EFED; */
+  background-color: #63C5BB;
+  color: #fff;
+}
+
+.ImgBox {
+  width: 130px;
+  height: 100px;
+  
+}
+
+img{
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  /* border: 3px solid red; */
+}
+
+ .bottomBOx{
+  /* border: 2px solid blue; */
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+ }
+
+ .listOut{
+  list-style: none;
+  font-size: 19px;
+  line-height: 2rem;
+ }
+
+
+
